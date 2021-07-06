@@ -1,5 +1,4 @@
 .services{
-    background-color:greenyellow;
     width: 100%;
     height: 30em;
     margin: 5rem 0;
@@ -9,27 +8,26 @@
     display:flex;
     height: 28em;
     width: 80%;
-    background:hotpink;
     margin: auto;
 }
 
 .services__items{
-    background-color: aqua;
     width: 30%;
     height: 25em;
     margin: 2%;
 }
-.services__items_img{
-   background-color: aliceblue;
 
-}
 .services__items_info h4{
     text-align: center;
     color: #5c5c5c;
+    margin-top: 0.9rem;
+    margin-bottom: 0.9rem;
 }
 
 .services__items_info p{
-    text-align: justify;
+    text-align: center;
     color: #5c5c5c;
-    font-size: 1em;
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    font-weight: 500;
 }

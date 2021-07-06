@@ -25,7 +25,7 @@ const Services = () => {
                 </div>
                 <div className="services__items">
                 <div className="services__items_img">
-                        <img height="250" width="300" src={folded} alt="" />
+                        <img height="250" width="350" src={folded} alt="" />
                     </div>
                     <div className="services__items_info">
                         <h4>{"FLUFF & FOLD SERVICE AVAILABLE"}</h4>
@@ -36,8 +36,9 @@ const Services = () => {
                 </div>
                 <div className="services__items">
                 <div className="services__items_img">
-                        <img height="200" width="350" src={loyalty} alt="" />
+                        <img height="245" width="350" src={loyalty} alt="" />
                     </div>
+                    
                     <div className="services__items_info">
                         <h4>{"LOYALTY DISCOUNTS"}</h4>
                         <p>{texts.info3}</p>
