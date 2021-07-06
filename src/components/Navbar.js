@@ -5,13 +5,21 @@ import logo from '../images/logo.png';
 
 
 const Navbar = () => {
-    let the_texts= { section1: {
-        serv : "services".toUpperCase(),
-        amen : "amenities".toUpperCase(),
-        tes : "testimonials".toUpperCase(),
-        faq : "faq".toUpperCase(),
-        con : "contact".toUpperCase()
-    } }
+    let the_texts= { 
+         section1: {
+            serv : "services".toUpperCase(),
+            amen : "amenities".toUpperCase(),
+            tes : "testimonials".toUpperCase(),
+            faq : "faq".toUpperCase(),
+            con : "contact".toUpperCase()
+        },
+        section2: {
+            sm_head : "MODERN & UPSCALE LAUNDROMAT",
+            bg_head_1 : "A Better Place to",
+            bg_head_2 : "do Your Laundry"
+
+        }
+ }
     return (
         <div className="Navbar" >
             <div className="Navbar__container">
@@ -38,7 +46,19 @@ const Navbar = () => {
                         {the_texts.section1.con}
                     </div>
                 </div>
-                <div className="Navbar__hero">
+                <div className="Navbar__hero__container">
+                    <div className="Navbar__hero_section1">
+                        {the_texts.section2.sm_head}
+                    </div>
+                    <div className="Navbar__hero_section2">
+                    {the_texts.section2.bg_head_1}
+                    </div>
+                    <div className="Navbar__hero_section2">
+                    {the_texts.section2.bg_head_2}
+                    </div>
+                    <div className="Navbar__hero_section3">
+                     {" view location".toUpperCase()}
+                    </div>
 
                 </div>
 
