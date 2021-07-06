@@ -4,6 +4,7 @@
     height:55em;
     width: auto;
     margin-top: 20px;
+    margin-bottom: 5rem;
 }
 
 .Navbar__real{
@@ -67,7 +68,8 @@
     border-radius: 25px;
     margin-top: 1rem;
     text-align: center;
-    color:gray;
+    color:rgb(102, 101, 101);
     justify-content: center;
     display: flex;
+    align-items: center;
  }

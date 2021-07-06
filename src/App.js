@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
+import Services from './components/Services';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
 
       {/* Including The Service section */}
       {/* Service */}
+      <Services />
 
       {/* Including The Amenities section */}
       {/* Amenities */}

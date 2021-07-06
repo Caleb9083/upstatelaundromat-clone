@@ -1,0 +1,35 @@
+.services{
+    background-color:greenyellow;
+    width: 100%;
+    height: 30em;
+    margin: 5rem 0;
+}
+
+.services__container{
+    display:flex;
+    height: 28em;
+    width: 80%;
+    background:hotpink;
+    margin: auto;
+}
+
+.services__items{
+    background-color: aqua;
+    width: 30%;
+    height: 25em;
+    margin: 2%;
+}
+.services__items_img{
+   background-color: aliceblue;
+
+}
+.services__items_info h4{
+    text-align: center;
+    color: #5c5c5c;
+}
+
+.services__items_info p{
+    text-align: justify;
+    color: #5c5c5c;
+    font-size: 1em;
+}
