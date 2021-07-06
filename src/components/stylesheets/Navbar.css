@@ -1,0 +1,45 @@
+.Navbar__container{
+    background-image: url("../../images/banner-3.jpg");
+    background-size: 100% 100%;
+    height:50em;
+    width: auto;
+    margin-top: 20px;
+    
+}
+
+.Navbar__real{
+    height: 10em;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.Navbar__real__items{
+    height: 8em;
+    width: 8em;
+    margin: auto 0.3em;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+.Navbar__real__items-small{
+    height: 3em;
+    width: 3em;
+    
+}
+
+.Navbar__real__items-big{
+    height: 8em;
+    width: 12em;
+    
+}
+
+.Navbar__hero{
+    background-color:blue;
+    margin-top: 3rem;
+}
