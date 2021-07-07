@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
-import Amenities from './components/Amenities;'
+import Amenities from './components/Amenities';
 
 function App() {
   return (
