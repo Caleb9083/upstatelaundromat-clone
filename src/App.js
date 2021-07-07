@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
+import Amenities from './components/Amenities;'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
 
       {/* Including The Amenities section */}
       {/* Amenities */}
+      <Amenities />
 
       {/* Including The What People Are Saying setion */}
       {/* WPAS */}
