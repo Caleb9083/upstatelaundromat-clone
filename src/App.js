@@ -2,6 +2,8 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
 import Amenities from './components/Amenities';
+import Wpas from './components/Wpas';
+
 
 function App() {
   return (
@@ -20,6 +22,7 @@ function App() {
 
       {/* Including The What People Are Saying setion */}
       {/* WPAS */}
+      <Wpas />
 
       {/* Including The Frequently Asked Questions */}
       {/* FAQ */}

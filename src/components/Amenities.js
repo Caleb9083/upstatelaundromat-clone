@@ -6,8 +6,10 @@ import chair from '../images/chair_icon.png';
 import cafe_ from '../images/cafe_table_icon.png';
 import charg_ from '../images/charger_icon.png';
 import hdtv from '../images/hdtv_icon.png';
-import mach_ from '../images/washing_machine_icon.png';
+import mach_ from '../images/wm.png';
 import kids_ from '../images/ipad_icon.png';
+import atten from '../images/attendant_icon.png';
+import sec_ from '../images/security_camera_icon.png';
 
 
 const Amenities = () => {
@@ -22,7 +24,7 @@ const Amenities = () => {
         tv: `5 HD 55" TVS`,
         mach: `35 HI TECH MACHINES`,
         kids: `KID'S ZONE WITH IPADS`,
-        site: "ON-SITE ATTENDANT",
+        site: "ON - SITE ATTENDANT",
         sec: "SECURITY CAMERAS"
 
     }
@@ -77,12 +79,35 @@ const Amenities = () => {
                         </div>    
                     </div>
                     <div className="amenities__body_container">
-                       < div className="amenities__item">
+                        <div className="amenities__item">
                             <div className="amenities__img">
-                                <img src={wifi} alt="" />
-
+                                <img src={hdtv} alt="" />
                             </div>
-                            <div className="amenities__info">{the_texts.wifi}</div>
+                            <div className="amenities__info">{the_texts.tv}</div>
+                        </div>
+                        <div className="amenities__item">
+                            <div className="amenities__img">
+                                <img src={mach_} alt="" />
+                            </div>
+                            <div className="amenities__info">{the_texts.mach}</div>
+                        </div>
+                        <div className="amenities__item">
+                            <div className="amenities__img">
+                                <img src={kids_} alt="" />
+                            </div>
+                            <div className="amenities__info">{the_texts.kids}</div>
+                        </div>
+                        <div className="amenities__item">
+                            <div className="amenities__img">
+                                <img src={atten} alt="" />
+                            </div>
+                            <div className="amenities__info">{the_texts.site}</div>
+                        </div>
+                        <div className="amenities__item">
+                            <div className="amenities__img">
+                                <img src={sec_} alt="" />
+                            </div>
+                            <div className="amenities__info">{the_texts.sec}</div>
                         </div> 
 
                     </div>
