@@ -1,0 +1,74 @@
+.wpas{
+    width: 100%;
+    height: 40em;
+    margin: 5rem 0;
+}
+
+.wpas__container{
+    height: 100%;
+    width: 45%;
+    margin:auto;
+}
+
+.wpas__head p{
+    font-size:2em;
+    text-align:center;
+    margin-bottom: 1em;
+}
+
+.wpas__testimony_container{
+    height: 20%;
+    width: 95%;
+    margin:auto;
+}
+.wpas__testimonyTop_container{
+    height: 25%;
+    width: 100%;
+    
+}
+
+.wpas__name_container{
+    height: 100%;
+    width: fit-content;
+    margin-right: 1rem;
+    font-size: 1.2em;
+    font-weight: 400;
+    float: left;
+}
+.wpas__rating_container{
+    height: 100%;
+    width: fit-content;
+    float: left;
+    display: flex;
+}
+.wpas__acc_img_container{
+    height: 100%;
+    width: 10%;
+    float: right;
+}
+
+.wpas__acc_img_container img{
+    height: inherit;
+    width: 50%;
+}
+
+.wpas__date_container{
+    display: block;
+    margin: 0 0 1em 0;
+    font-size: 0.9em;
+}
+
+.wpas__message_container{
+    display: block;
+    height:fit-content;
+    font-size: 0.9em;
+}
+.container-small{
+    height:fit-content;
+    text-decoration: none;
+}
+
+.container-small a{
+    text-decoration: none;
+    color:rgb(173, 15, 15);
+}
