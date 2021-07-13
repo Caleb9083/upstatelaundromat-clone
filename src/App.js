@@ -4,6 +4,7 @@ import Services from './components/Services';
 import Amenities from './components/Amenities';
 import Wpas from './components/Wpas';
 import FAQ from './components/FAQ';
+import Prefooter from './components/Prefooter';
 
 
 
@@ -25,7 +26,7 @@ function App() {
       {/* Including The What People Are Saying setion */}
       {/* WPAS */}
       <Wpas />
-      
+
       {/* Including The Frequently Asked Questions */}
       {/* FAQ */}
       <FAQ />
@@ -33,6 +34,7 @@ function App() {
 
       {/* Including The Pre-Footer Section */}
       {/* Pre_footer */}
+      <Prefooter />
 
       {/* Including The Footer */}
       {/* Footer */}
