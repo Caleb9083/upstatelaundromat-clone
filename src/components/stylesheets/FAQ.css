@@ -1,5 +1,53 @@
-faq{
-    background-color: aqua;
-    height: 50em;
+.faq{
+    background-color: rgba(236, 248, 250, 0.897);
+    height: 37em;
     width: 100%;
+    margin-bottom: 5rem;
+    align-content: center;
+    position:relative;
+}
+
+.faq__container{
+    height: 18em;
+    width:70%;
+    margin: auto;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    display: flex;
+}
+
+.faq__head{
+    height:3em;
+    width:70%;
+    position: absolute;
+    top: 14%;
+    left: 12%;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 400;
+    color: #5c5c5c;
+}
+
+.faq__item_container{
+    width: 50%;
+    height:100%;
+}
+
+.faq__question{
+    height: 2em;
+    width: 100%;
+    margin-bottom: 0.9rem;
+}
+
+.faq__qq{
+    font-size: 0.9em;
+    color: #5c5c5c;
+ }
+
+.faq__qq strong{
+   margin-right: 0.7em;
+   font-size: 1.3em;
+   color: rgb(173, 15, 15);
+   font-weight: 400;
 }
