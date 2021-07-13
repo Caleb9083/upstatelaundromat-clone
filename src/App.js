@@ -32,7 +32,7 @@ function App() {
       <FAQ />
 
 
-      {/* Including The Pre-Footer Section */}
+      {/* Including The Information Section */}
       {/* Pre_footer */}
       <Prefooter />
 
