@@ -12,7 +12,7 @@ const Frefooter = () => {
                             {"Contact"}
                         </div>
                         <div className="prefooter__left_fb">
-                            {"Facebook"}
+                            {"f"}
                         </div>
                         <div className="prefooter__left_location">
                             {"location".toUpperCase()}

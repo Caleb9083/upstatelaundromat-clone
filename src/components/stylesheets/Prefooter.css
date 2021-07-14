@@ -31,16 +31,21 @@
     height: 11%;
     font-size: 2em;
     font-weight: 400;
-    margin-bottom: 2rem;
+    margin-bottom: 1.3rem;
     color: #5c5c5c;
 }
 
 .prefooter__left_fb{
-    height: 11%;
-    font-size: 1em;
-    background-color: yellow;
+    height: 6%;
+    width: 15%;
+    font-size: 1.5em;
+    font-weight: 700;
+    background-color: rgb(16, 16, 163);
     margin-bottom: 1rem;
-    color: #5c5c5c;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: 2.2rem;
 }
 
 .prefooter__left_location{
@@ -53,7 +58,7 @@
 .prefooter__left_loc_direction{
     height: 9%;
     font-size: 0.9em;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     width: 70%;
     color: #5c5c5c;
 }
