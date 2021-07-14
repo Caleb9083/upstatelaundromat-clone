@@ -5,6 +5,7 @@ import Amenities from './components/Amenities';
 import Wpas from './components/Wpas';
 import FAQ from './components/FAQ';
 import Prefooter from './components/Prefooter';
+import Footer from './components/Footer'
 
 
 
@@ -38,6 +39,7 @@ function App() {
 
       {/* Including The Footer */}
       {/* Footer */}
+      <Footer />
 
     </div>
   );
