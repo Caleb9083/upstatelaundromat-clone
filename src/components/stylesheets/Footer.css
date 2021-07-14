@@ -1,5 +1,28 @@
 .footer{
-    height: 20em;
+    height: 23em;
     width: 100%;
-    background-color:rgb(173, 15, 15);
+    background-color:rgb(197, 60, 60);
+    position: relative;
+}
+
+.footer__container{
+    position: absolute;
+    width: 35%;
+    height: 80%;
+    top: 20%;
+    left: 32%;
+}
+
+.footer__head{
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.93em;
+    color: white;
+}
+
+.footer__logo img{
+    height: 65%;
+    width: 65%;
+    margin-left: 5rem;
 }
