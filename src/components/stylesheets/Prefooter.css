@@ -6,7 +6,6 @@
 }
 
 .prefooter__container{
-    background-color:aqua;
     height: 100%;
     width: 75%;
     margin: auto;
@@ -16,11 +15,72 @@
 .prefooter__left{
     width: 35%;
     height: 100%;
-    background-color: bisque;
 }
 
 .prefooter__right{
     width: 65%;
     height: 100%;
-    background-color: rgb(196, 255, 216);
 }
+
+.prefooter__left_container{
+    width: 65%;
+    height: 100%;
+}
+
+.prefooter__left_head{
+    height: 11%;
+    font-size: 2em;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    color: #5c5c5c;
+}
+
+.prefooter__left_fb{
+    height: 11%;
+    font-size: 1em;
+    background-color: yellow;
+    margin-bottom: 1rem;
+    color: #5c5c5c;
+}
+
+.prefooter__left_location{
+    height: 5%;
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #5c5c5c;
+}
+
+.prefooter__left_loc_direction{
+    height: 9%;
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+    width: 70%;
+    color: #5c5c5c;
+}
+
+.prefooter__left_hours{
+    height: 5%;
+    font-size: 1em;
+    margin-bottom: 1rem;
+    color: #5c5c5c;
+}
+
+.prefooter__left_hours_time{
+    height: 10%;
+    font-size: 0.9em;
+    margin-bottom: 2.5rem;
+    color: #5c5c5c;
+}
+
+.prefooter__left_email_head{
+    height: 5%;
+    margin-bottom: 1rem;
+    color: #5c5c5c;
+}
+
+.prefooter__left_email{
+    height: 5%;
+    font-size: 0.8em;
+    color: rgb(173, 15, 15);
+}
+
