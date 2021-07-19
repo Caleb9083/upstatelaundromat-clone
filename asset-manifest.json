@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/upstatelaundromat-clone/static/css/main.ee63da21.chunk.css",
+    "main.js": "/upstatelaundromat-clone/static/js/main.a4ec6d15.chunk.js",
+    "main.js.map": "/upstatelaundromat-clone/static/js/main.a4ec6d15.chunk.js.map",
+    "runtime-main.js": "/upstatelaundromat-clone/static/js/runtime-main.5b002c6d.js",
+    "runtime-main.js.map": "/upstatelaundromat-clone/static/js/runtime-main.5b002c6d.js.map",
+    "static/js/2.e242295e.chunk.js": "/upstatelaundromat-clone/static/js/2.e242295e.chunk.js",
+    "static/js/2.e242295e.chunk.js.map": "/upstatelaundromat-clone/static/js/2.e242295e.chunk.js.map",
+    "static/js/3.23d72a56.chunk.js": "/upstatelaundromat-clone/static/js/3.23d72a56.chunk.js",
+    "static/js/3.23d72a56.chunk.js.map": "/upstatelaundromat-clone/static/js/3.23d72a56.chunk.js.map",
+    "index.html": "/upstatelaundromat-clone/index.html",
+    "static/css/main.ee63da21.chunk.css.map": "/upstatelaundromat-clone/static/css/main.ee63da21.chunk.css.map",
+    "static/js/2.e242295e.chunk.js.LICENSE.txt": "/upstatelaundromat-clone/static/js/2.e242295e.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/upstatelaundromat-clone/static/media/banner-3.936c7103.jpg",
+    "static/media/coin_and_coinless.a408b0d8.png": "/upstatelaundromat-clone/static/media/coin_and_coinless.a408b0d8.png",
+    "static/media/folded-shirt-icon.17ecc9bd.png": "/upstatelaundromat-clone/static/media/folded-shirt-icon.17ecc9bd.png",
+    "static/media/loyalty-card-icon.da6b1b26.png": "/upstatelaundromat-clone/static/media/loyalty-card-icon.da6b1b26.png",
+    "static/media/map.c54bd1e5.PNG": "/upstatelaundromat-clone/static/media/map.c54bd1e5.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b002c6d.js",
+    "static/js/2.e242295e.chunk.js",
+    "static/css/main.ee63da21.chunk.css",
+    "static/js/main.a4ec6d15.chunk.js"
+  ]
+}
